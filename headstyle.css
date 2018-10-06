@@ -1,0 +1,45 @@
+* {
+	margin: 0;
+
+}
+
+body {
+
+}
+
+h1 {
+  font-size: 30px;
+  font-family: serif;
+  padding: 10px;
+  color: #c0c0c0;
+
+}
+
+.header {
+	background-color: #005faa;
+	padding: 30px;
+
+}
+
+.headerimg {
+	float: left;
+
+}
+
+.subtitle {
+	font-style: italic;
+	padding: 10px;
+	color: #c0c0c0;
+
+}
+
+.TOC {
+	text-align: center;
+	padding: 30px;
+
+}
+
+.TOCitems {
+	padding: 10px;
+
+}
