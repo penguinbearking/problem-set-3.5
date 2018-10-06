@@ -4,7 +4,7 @@
 }
 
 body {
-
+	min-width: 950px;
 }
 
 h1 {
@@ -14,15 +14,21 @@ h1 {
   color: #c0c0c0;
 
 }
+a {
+	text-decoration:none;
+
+}
+
 
 .header {
 	background-color: #005faa;
 	padding: 30px;
+	display: flex;
 
 }
 
 .headerimg {
-	float: left;
+	float: right;
 
 }
 
@@ -36,10 +42,15 @@ h1 {
 .TOC {
 	text-align: center;
 	padding: 30px;
+	background-color: #bababa;
+	border: 2px;
+	border-color: black;
+	width: 100%
 
 }
 
-.TOCitems {
-	padding: 10px;
+.TOCitem {
+	width: 20%;
+	font-size: 20px;
 
 }
