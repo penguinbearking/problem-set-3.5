@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+
+}
+
+body {
+  min-width: 1050px;
+
+}
+
+p {
+  font-size: 20px;
+  padding: 5px;
+  line-height: 30px;
+
+}
+li {
+  font-size: 20px;
+  padding: 5px;
+  line-height: 30px;
+
+}
+
+hr {
+  margin: 20px;
+  color: black;
+  border-width: 1px;
+  border-style: solid;
+  background-color: black;;
+
+}
+
+.SectionTitle {
+  padding: 20px;
+  font-size: 30px;
+
+}
+
+.mainbody {
+  background-color: #bababa;
+  padding-bottom: 50px;
+
+}
+
+.infopara {
+  padding:50px;
+
+
+}
+
+.bodyother {
+  width: 40%;
+
+}

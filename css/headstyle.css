@@ -4,21 +4,21 @@
 }
 
 body {
-	min-width: 950px;
+	min-width: 1050px;
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 35px;
   font-family: serif;
   padding: 10px;
   color: #c0c0c0;
 
 }
+
 a {
 	text-decoration:none;
 
 }
-
 
 .header {
 	background-color: #005faa;
@@ -45,7 +45,8 @@ a {
 	background-color: #bababa;
 	border: 2px;
 	border-color: black;
-	width: 100%
+	border-bottom: 2px solid black;
+	border-top: 2px solid black;
 
 }
 

@@ -1,0 +1,50 @@
+* {
+	margin: 0;
+
+}
+
+body {
+	min-width: 1050px;
+}
+
+.foot {
+	background-color: #005faa;
+	padding: 30px;
+	color: #c0c0c0;
+}
+
+.foottop {
+	display: flex;
+
+}
+.footstatement {
+	width: 100%;
+	line-height: 50px;
+}
+
+
+.foottext {
+	width: 100%;
+	line-height: 50px;
+
+}
+.footcontact {
+	width: 40%;
+	float: right;
+	line-height: 50px;
+
+}
+
+.footinfo {
+	display: flex;
+	padding: 10px;
+	line-height: 50px;
+
+}
+
+.footbottom {
+	display: flex;
+	padding: 10px;
+	padding-top: 30px;
+
+}
