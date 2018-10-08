@@ -7,6 +7,11 @@ body {
 	min-width: 1050px;
 }
 
+.footlink {
+	color: #c0c0c0;
+
+}
+
 .foot {
 	background-color: #005faa;
 	padding: 30px;
