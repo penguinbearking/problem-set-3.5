@@ -1,0 +1,57 @@
+* {
+	margin: 0;
+
+}
+
+body {
+	min-width: 1250px;
+}
+
+h1 {
+  font-size: 35px;
+  font-family: serif;
+  padding: 10px;
+  color: #c0c0c0;
+
+}
+
+a {
+	text-decoration:none;
+
+}
+
+.header {
+	background-color: #005faa;
+	padding: 30px;
+	display: flex;
+
+}
+
+.headerimg {
+	float: right;
+
+}
+
+.subtitle {
+	font-style: italic;
+	padding: 10px;
+	color: #c0c0c0;
+
+}
+
+.TOC {
+	text-align: center;
+	padding: 30px;
+	background-color: #bababa;
+	border: 2px;
+	border-color: black;
+	border-bottom: 2px solid black;
+	border-top: 2px solid black;
+
+}
+
+.TOCitem {
+	width: 20%;
+	font-size: 20px;
+
+}

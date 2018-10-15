@@ -1,0 +1,86 @@
+* {
+  margin: 0;
+
+}
+
+body {
+  min-width: 1250px;
+
+}
+
+p {
+  font-size: 20px;
+  padding: 5px;
+  line-height: 30px;
+
+}
+li {
+  font-size: 20px;
+  padding: 5px;
+  line-height: 30px;
+
+}
+
+hr {
+  margin: 20px;
+  color: black;
+  border-width: 1px;
+  border-style: solid;
+  background-color: black;;
+
+}
+
+#colonytab {
+  border: 2px solid black;
+  border-collapse: collapse;
+
+}
+
+#SciClass {
+  width: 40%;
+  float: right;
+  padding-bottom:10px;
+
+}
+
+#PhyAttributes {
+  float: right;
+  padding: 50px;
+}
+
+.tabh {
+  border: 2px solid black;
+  border-collapse: collapse;
+
+
+}
+
+.tabd {
+  border: 2px solid black;
+  border-collapse: collapse;
+  text-align: right;
+
+}
+
+.SectionTitle {
+  padding: 20px;
+  font-size: 30px;
+
+}
+
+.mainbody {
+  background-color: #bababa;
+  padding-bottom: 50px;
+
+}
+
+.infopara {
+  padding:50px;
+
+
+}
+
+.bodyother {
+  width: 40%;
+
+}
