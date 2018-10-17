@@ -19,6 +19,11 @@ a {
 	text-decoration:none;
 
 }
+h4 {
+	color: #000000;
+	text-decoration: none;
+
+}
 
 .header {
 	background-color: #005faa;
@@ -53,5 +58,11 @@ a {
 .TOCitem {
 	width: 20%;
 	font-size: 20px;
+
+}
+
+h4:hover {
+  color: #ffffff;
+  text-decoration: underline;
 
 }
