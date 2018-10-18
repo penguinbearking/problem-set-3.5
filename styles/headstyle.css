@@ -61,8 +61,14 @@ h4 {
 
 }
 
-h4:hover {
+h1 ~ h3 {
+	font-style: italic;
+	color: white;
+
+}
+
+h4:visited {
   color: #ffffff;
-  text-decoration: underline;
+  font-style: italic;
 
 }

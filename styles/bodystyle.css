@@ -93,3 +93,43 @@ img {
   width: 40%;
 
 }
+
+img[height] {
+  border-radius: 10px;
+
+}
+
+a[href*=".org"] {
+  color: black
+
+}
+
+div[class*="header"] {
+  text-decoration: underline;
+
+}
+
+h2 + p {
+  text-decoration: italic;
+
+}
+
+div img {
+  border: 3px solid gold;
+
+}
+
+a:hover {
+  color: purple;
+
+}
+
+td:hover {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+img:hover {
+  border: 5px solid black;
+
+}
